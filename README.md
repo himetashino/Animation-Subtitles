@@ -37,3 +37,4 @@ ScaledBorderAndShadow: yes
   - 棺姬嘉依卡
   - 极黑的布伦希尔德
   - 姐姐来了
+  - 乐园追放
