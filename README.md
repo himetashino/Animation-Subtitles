@@ -38,3 +38,4 @@ ScaledBorderAndShadow: yes
   - 极黑的布伦希尔德
   - 姐姐来了
   - 乐园追放
+  - 漫画家与助手
