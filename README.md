@@ -43,3 +43,5 @@ ScaledBorderAndShadow: yes
   - 最近，妹妹的样子有点怪
 - 2015
   - 落第骑士英雄谭
+- 2016
+  - 百武装战记
