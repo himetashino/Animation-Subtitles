@@ -46,3 +46,5 @@ ScaledBorderAndShadow: yes
 - 2016
   - 百武装战记
   - 甲铁城的卡巴内利
+- 2017
+  - One Room
