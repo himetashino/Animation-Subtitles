@@ -48,3 +48,4 @@ ScaledBorderAndShadow: yes
   - 甲铁城的卡巴内利
 - 2017
   - One Room
+  - 笨女孩
