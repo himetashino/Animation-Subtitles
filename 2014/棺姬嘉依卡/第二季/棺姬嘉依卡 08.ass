@@ -24,7 +24,7 @@ Video Position: 33852
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,方正准圆简体,50,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,0.6,2,10,10,12,1
+Style: Default,苹方-简,50,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,0.6,2,10,10,12,1
 Style: Default2,Luxi Sub Sans,48,&H00F9FDFB,&H00002EFF,&H0A413105,&HDC271502,-1,0,0,0,99,100,0,0,1,2.5,1,2,60,60,40,0
 Style: Default - Alt,Luxi Sub Sans,48,&H00FEFCFF,&H00002EFF,&H0A320C6C,&HDC351128,-1,0,0,0,100,100,0,0,1,2.5,1,8,110,110,40,0
 Style: ED1-Romaji-furigana,Day Roman,24,&H00FFFFFF,&H0095A79B,&H3E000000,&H00FFFFFF,0,0,0,0,105,110,1,0,1,1,0.05,8,40,40,25,1
