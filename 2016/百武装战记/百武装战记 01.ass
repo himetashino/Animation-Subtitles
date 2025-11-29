@@ -15,9 +15,9 @@ Active Line: 1
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,方正准圆_GBK,50,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,0.6,2,10,10,12,1
-Style: Default2,方正准圆_GBK,45,&H00FFFFFF,&HF0000000,&H00000000,&HF0000000,-1,0,0,0,100,100,0,0,1,2,0,8,30,30,10,1
-Style: Default3,方正准圆_GBK,48,&H00FFFFFF,&HF0000000,&H00FFFFFF,&HF0000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,10,1
+Style: Default,苹方-简,50,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,0.6,2,10,10,12,1
+Style: Default2,苹方-简,45,&H00FFFFFF,&HF0000000,&H00000000,&HF0000000,-1,0,0,0,100,100,0,0,1,2,0,8,30,30,10,1
+Style: Default3,苹方-简,48,&H00FFFFFF,&HF0000000,&H00FFFFFF,&HF0000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,10,1
 Style: zhushi,方正准圆_GBK,36,&H00FFFFFF,&HF0000000,&H00000000,&H0AC0C0C0,-1,0,0,0,100,100,0,0,1,2,0,2,30,30,10,1
 Style: zhushi2,方正准圆_GBK,32,&H00FFFFFF,&HF0000000,&H00000000,&H0AC0C0C0,-1,0,0,0,100,100,0,0,1,5,0,2,30,30,10,1
 Style: zhushi3,方正准圆_GBK,38,&H00FFFFFF,&HF0000000,&H00000000,&H0AC0C0C0,0,0,0,0,100,100,0,0,1,0,0,2,30,30,10,1
