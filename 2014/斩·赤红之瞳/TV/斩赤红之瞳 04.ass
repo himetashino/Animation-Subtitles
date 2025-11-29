@@ -12,7 +12,7 @@ YCbCr Matrix: TV.709
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,方正兰亭准黑_GBK,50,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,0.6,2,10,10,12,1
+Style: Default,苹方-简,50,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,0.6,2,10,10,12,1
 Style: op_ja,A-OTF Ryumin Pro L-KL,45,&H00151898,&H000000FF,&H00151898,&H00FFFFFF,0,0,0,0,80,100,1,0,1,0.1,1,2,10,10,5,1
 Style: op_zh,方正仿宋_GBK,36,&H00151898,&H000000FF,&H00151898,&H00FFFFFF,0,0,0,0,80,100,1,0,1,0.1,1,2,10,10,40,1
 Style: ed_ja,G-OTF Ryumin Pro M-KL,37,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.5,0,2,10,10,5,1
