@@ -19,8 +19,8 @@ Video Position: 148976
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,经典中圆简,50,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,0.6,2,10,10,12,1
-Style: Default-2,華康粗圓體,33,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0.8,0.4,2,10,10,8,1
+Style: Default,苹方-简,50,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,0.6,2,10,10,12,1
+Style: Default-2,苹方-简,33,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0.8,0.4,2,10,10,8,1
 Style: MJP,A-OTF Maru Folk Pro B,40,&H00F7FFF6,&H000000FF,&H009B6618,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,10,10,10,1
 Style: MCH,FZZhongQian-M16,33,&H00F7FFF6,&H000000FF,&H009B6618,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,10,10,10,1
 
