@@ -14,7 +14,7 @@ ScaledBorderAndShadow: yes
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,WenQuanYi Micro Hei,50,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,0.6,2,10,10,12,134
+Style: Default,苹方-简,50,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,0.6,2,10,10,12,134
 Style: tips,WenQuanYi Micro Hei,32,&H00FFFFFF,&HF0000000,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,1,1,7,30,30,20,134
 Style: ep,FZDaBiaoSong-B06,50,&H00FFFFFF,&HF0000000,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,1,1,2,30,30,250,134
 Style: ruby,WenQuanYi Micro Hei,35,&H00FFFFFF,&HF0000000,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,1,1,2,30,30,75,134
