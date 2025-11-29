@@ -14,7 +14,7 @@ ScaledBorderAndShadow: yes
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,方正准圆_GBK,25,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0.6,0.3,2,10,10,6,1
+Style: Default,苹方-简,25,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0.6,0.3,2,10,10,6,1
 Style: OPJP,ＤＦまるもじ体W3,16,&H00FFFFFF,&H000000FF,&H00B870E0,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,5,5,12,1
 Style: OPCN,华康少女文字W5,16,&H00FFFFFF,&H000000FF,&H00B870E0,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,1
 Style: Title,华康少女文字W5,16,&H00FFFFFF,&H000000FF,&H009F44DA,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,5,5,12,1
